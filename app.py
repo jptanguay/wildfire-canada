@@ -1,10 +1,10 @@
 #
+# Feux de forêts - Canada - 1990 à 2021
+# 2025-05
+# Jean-Pierre Tanguay
 #
 #
-#
-#
-#
-#
+# 
 #
 import plotly.express as px
 
