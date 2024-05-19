@@ -2,4 +2,4 @@
 
 ## Application Streamlit pour Analyse exploratoire de données (EDA) des feux de fôrets au Canada entre 1990 et 2021
 
-Voir: https://wildfire-canada.onrender.com/[https://wildfire-canada.onrender.com/]
+Voir: [https://wildfire-canada.onrender.com](https://wildfire-canada.onrender.com)
